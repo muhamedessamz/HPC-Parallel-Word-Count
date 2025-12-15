@@ -58,7 +58,7 @@ The project includes a validation step to ensure the parallel output matches the
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/SeifEldinMohamed/HPC-Parallel-Word-Count.git](https://github.com/SeifEldinMohamed/HPC-Parallel-Word-Count.git)
+    git clone https://github.com/SeifEldinMohamed/HPC-Parallel-Word-Count.git
     ```
 2.  **Open in Visual Studio:**
     - Create a new project or open the folder.
