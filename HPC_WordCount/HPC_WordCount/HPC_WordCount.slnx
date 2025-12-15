@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HPC_WordCount/HPC_WordCount.vcxproj" Id="15282b03-6472-4e3d-8153-29a0d77ef5ad" />
+</Solution>
